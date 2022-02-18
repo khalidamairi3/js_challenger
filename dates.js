@@ -48,5 +48,3 @@ function myFunction5(date) {
   minutes = minutes + 15 - (minutes % 15);
   return minutes < 60 ? minutes : 0;
 }
-
-console.log(myFunction5(new Date(2021, 8, 10, 15, 22, 00)));
