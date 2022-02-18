@@ -131,6 +131,3 @@ function myFunction14(a, b) {
 
   return a + str;
 }
-
-let a = "k";
-console.log(parseInt(a));
